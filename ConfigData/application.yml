@@ -5,7 +5,7 @@ eureka:
 ---
 spring:
 profiles: subject
-words: Yo,Tu,El,Ella,Esto
+words: Yo, Tu, El, Ella, Esto
 
 ---
 spring:
@@ -15,7 +15,7 @@ words: corrió, sabía, tenía, vió, compró
 ---
 spring:
 profiles: article
-words: un,una,la
+words: un, una, la
 
 ---
 spring:
