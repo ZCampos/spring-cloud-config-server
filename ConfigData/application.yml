@@ -26,3 +26,5 @@ words: razonable, permeable, sospechoso, ordinario, improbable
 spring:
 profiles: noun
 words: barco, libro, voto, asiento, mochila, partición
+
+---
